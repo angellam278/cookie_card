@@ -1,0 +1,41 @@
+.parent {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.text {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+.back {
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 15%;
+  }
+.card {
+    position: relative;
+    top: 20px;
+    left: 0;
+    width: 100%;
+}
+
+
+.first {
+    position: absolute;
+    top: 10%;
+    left: 0px;
+}
+.second {
+    position: absolute;
+    top: 65%;
+    left: 0px;
+}
+.column {
+    float: left;
+    width: 22%;
+    padding: 1.5%;
+}
